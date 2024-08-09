@@ -1,0 +1,43 @@
+========================================================================
+ Los Angeles City Boundary
+------------------------------------------------------------------------
+ https://koordinates.com/layer/98158-los-angeles-city-boundary/
+========================================================================
+From: City of Los Angeles, California
+
+Description:
+  Polygon vector map data covering boundaries for the City of Los Angeles
+  containing 4 features.
+  
+  Boundary GIS (Geographic Information System) data is spatial information that
+  delineates the geographic boundaries of specific geographic features. This data
+  typically includes polygons representing the outlines of these features, along
+  with attributes such as names, codes, and other relevant information.
+  
+  Boundary GIS data is used for a variety of purposes across multiple industries,
+  including urban planning, environmental management, public health,
+  transportation, and business analysis.
+  
+  Available for viewing and sharing as a map in a Koordinates map viewer. This
+  data is also available for export to DWG for CAD, PDF, KML, CSV, and GIS data
+  formats, including Shapefile, MapInfo, and Geodatabase.
+  
+  ​
+
+Region: Los Angeles County
+
+CRS: NAD83 / California zone 5 (ftUS)
+
+------------------------------------------------------------------------
+ Processing steps applied by Koordinates
+------------------------------------------------------------------------
+
+- imported to Koordinates in Esri JSON format on 03 Oct 2018
+- converted by Koordinates to Shapefile on 08 Aug 2024 (reference #3576025)
+
+====================
+No license specified
+====================
+
+No license was specified for this layer. This could mean default rights under copyright law for your legal jurisdiction may apply. Please check with Koordinates if you're unsure of your right to access and use this layer.
+
